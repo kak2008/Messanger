@@ -4,8 +4,8 @@ This app is messenger app, where user will send and receive messages from webser
 
 ### Requirements
 
-Xcode 7.3
-Objective - C
+* Xcode 7.3
+* Objective - C
 
 ### License
 
